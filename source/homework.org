@@ -5,13 +5,13 @@
 #+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
-#+TITLE: Artificial Intelligence
-#+AUTHOR: Marc Scott
+#+TITLE: Homework tasks
+#+AUTHOR: Xiaohui Ellis
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/MarcScott/8-CS-AI">Fork me on GitHub</a>
+      <a href="https://github.com/stsb11/7-CS-Turing">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -23,7 +23,7 @@
       <li><a href="5_Lesson.html">Week5</a></li>
       <li><a href="6_Lesson.html">Week6</a></li>
       <li><a href="7_Lesson.html">Week7</a></li>
-      <li><a href="assessment.html">Assessment</a></li>
+      <li><a href="homework.html">Homework</a></li>
 
     </ul>
   </div>
@@ -92,19 +92,45 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* AI Homeworks
+* AI Homework
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
 ** Homework 1 - Research
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: research
+:HTML_CONTAINER_CLASS: learn
 :END:
-** Homework 2 - Design
+
+- Following are the seven goals of AI we studied in lesson 1:
+  1. reasoning (making decisions)
+  2. representing knowledge
+  3. forward planning
+  4. learning
+  5. natural language processing (communication)
+  6. perception (sensing an environment)
+  7. move and manipulate objects
+
+- Your homework: 
+  + Choose either a video game or a smartphone that uses AI technology, using the seven goals above, explain:
+    1. how a minimum of three of those goals are achieved.
+    2. how did it improve the functionality of the game or the smartphone function.
+
+ 
+- Answers to be submitted as a text file or image for the homework 1 badge on [[https://www.bournetolearn.com/][BourneToLearn]].
+
+** Homework 2 - Coming soon
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: design
+:HTML_CONTAINER_CLASS: learn
 :END:
-** Homework 3 - Code
+
+- Coming soon
+
+	 
+** Homework 3 - Coming soon
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: code
+:HTML_CONTAINER_CLASS: learn
 :END:
+- Coming soon
+
+
+
