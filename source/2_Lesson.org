@@ -167,6 +167,6 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Time to show what you know!
-- Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_1/][here]]
+- Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_2/][here]]
 - Your score will determine whether you receive a silver, gold or platinum badge.
 
