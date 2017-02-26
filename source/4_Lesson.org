@@ -102,7 +102,7 @@
 :END:
 - The word /Robot/ entered the English language in the 1920 play R.U.R. about factory robots that learn about violence from humans and revolt against their masters.
 - Since then Artificially Intelligent machines have been portrayed countless times in movies and literature, and not often in a good light.
-** Badge It - Silver
+** Badge Task 1 - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
@@ -114,6 +114,7 @@
   * Baymax from the Big Hero 6 Movie
   * Bender from Futurama
 - Write a paragraph on how AI has been historically portrayed in fiction.
+- Upload your notes to www.bournetolearn.com.
 ** Learn It - The reality?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -166,7 +167,7 @@ You quickly learn that every automated factory in the world has had its security
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-sSJ1K2H05A" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IFe9wiDfb0E" frameborder="0" allowfullscreen></iframe>
 #+end_html
-** Badge It - Gold and Platinum
+** Badge Task 2 - Gold and Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
@@ -175,4 +176,14 @@ You quickly learn that every automated factory in the world has had its security
 - What are some of the negative predictions regarding a technological singularity?
 - Are there any people working to try and bring about the technological singularity and in your opinion, is this sensible and why? 
 - You will be awarded Gold or Platinum according to the quality of your response.
+- Upload your notes to www.bournetolearn.com.
   
+** Badge It - Silver, Gold and Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- You have done some research , watched some videos and taken some notes for the Silver, Gold and platinum badge tasks above.
+- To assess your understanding, you will take a quiz.
+- Although your quiz score will award you the badges, but your teacher will also look at your notes to decide if your work has met the badge requirement.
+- Please click [[https://www.bournetolearn.com/quizzes/y8-AI/Lesson_4/][here]] to take a quiz.
