@@ -118,19 +118,22 @@
  
 - Answers to be submitted as a text file or image for the homework 1 badge on [[https://www.bournetolearn.com/][BourneToLearn]].
 
-** Homework 2 - Coming soon
+** Homework 2 - CAPTCHA and Computers
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 
-- Coming soon
-
+- In week 2 of this unit on BournetoCode we learnt that AI has difficulty with CAPTCHA  deciphering. Using [[http://www.geek.com/google/ai-beats-captcha-with-90-success-but-google-has-something-new-1575339/][this]] web artical as a starting point, conduct some research, explain how a CAPTCHA can be solved by a computer.
+- Upload your work to www.bournetolearn.com. If you have difficult in uploading or accessing to a computer, you can send your homework to your teacher by email, or print it out and hand it in, or show your teacher your hand written work.
 	 
-** Homework 3 - Coming soon
+** Homework 3 - Literacy task (200 words with appropriate English)
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Coming soon
+- In lesson 4 of this unit on BoureToCode.com, one of the visions of Technological Singularity was introduced as a method to enhance human beings by joining them to AI machines. 
+- Your homework will be about discussing the advantages and disadvantages of humans being joined to AI devices using technological singularity.
+- Your homework needs to be at least 200 words and use appropriate grammar and spelling.
+- Upload your work to www.bournetolearn.com. If you have difficult in uploading or accessing to a computer, you can send your homework to your teacher by email, or print it out and hand it in, or show your teacher your hand written work.
 
 
 
