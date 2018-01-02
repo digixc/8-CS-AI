@@ -109,8 +109,21 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 
-- Artificial intelligence (AI) is the intelligence exhibited by machines or software.
+- Artificial intelligence (AI) is the *intelligence* exhibited by machines or software. What is exactly is *intelligence*?
+#+BEGIN_HTML
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/AwMY7cbKU3c?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+#+END_HTML
 - As you will learn, we are already surrounded by AI, whether that be the route finding software in the maps app on your mobile phone, that enemy combatant in your FPS console game or the recommendation software used to suggest products to you based on your previous purchases.
+- A simpler explanation on what AI is:
+#+begin_html
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/mJeNghZXtMo?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+#+end_html
+- A little more in-depth explanation:
+#+BEGIN_HTML
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/kWmX3pd1f10?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+#+END_HTML
 ** Silver Tasks
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
