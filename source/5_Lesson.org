@@ -126,16 +126,12 @@ You car is driving at a moderate speed down a road. It turns a corner and there 
 - Write down what you think the car should do and why?
 - If it was later discovered that the car should have been driving more slowly, who is to blame? Is it the fault of the owner of the car, the manufacturer of the car, the programmer of the car, or the program?
 - Should computers be programmed to always serve /humanity/ and therefore choose options that lead to the /greatest good/?
-** Research It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: research
-:END:
-- Have a [[https://www.duffelblog.com/2017/11/saudi-arabia-beheads-first-female-robot-citizen/][read of this article]].
+
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- It is, of course, a fake news article, but could articles such as this be common place one day?
+
 - Consider the following facts:
   - The first actual recorded death attributed to a robot occurred in 1979, although the robot in question was not Artificially Intelligent.
 [[file:img/sgr-a1.gif]]
