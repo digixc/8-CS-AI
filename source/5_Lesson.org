@@ -130,7 +130,7 @@ You car is driving at a moderate speed down a road. It turns a corner and there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- Have a [[http://topekasnews.com/asimo-robot-kills-two-scientists-japan-escapes-laboratory/][read of this article]].
+- Have a [[https://www.duffelblog.com/2017/11/saudi-arabia-beheads-first-female-robot-citizen/][read of this article]].
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
