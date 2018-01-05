@@ -152,7 +152,7 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :END:
 - There is now an interesting battle between bots and CAPTCHA programs.
 - In fact, Google have been using CAPTCHA to train their AIs.
-- Read[[http://www.newscientist.com/article/mg22429992.400-googles-new-bottrap-trains-machines-to-see-the-world.html#.VRlKbLwo9QI][ this article]] to learn a little more.
+- Read[[https://www.newscientist.com/article/mg22429992-400-googles-new-bot-trap-trains-machines-to-see-the-world/][ this article]] to learn a little more.
 - Ironically, these AIs that are trained are then capable of solving Google's own CAPTCHA.
 - Read[[http://techcrunch.com/2014/04/16/googles-new-street-view-image-recognition-algorithm-can-beat-most-captchas/][ this article]] to learn a little more.
 ** Note It
