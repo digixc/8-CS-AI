@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: Artificial Intelligence
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott, xiaohui Ellis
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
@@ -112,6 +112,7 @@
 :HTML_CONTAINER_CLASS: research
 :END:
 - Use this [[http://en.wikipedia.org/wiki/Trolley_problem][Wikipedia article]] to learn about an ethical dilemma called /The Trolley Problem/.
+- MIT designed a *Moral Machine* platform to gather human perspectives on moral decisions made by machines, such as self-driving cars. [[http://moralmachine.mit.edu][Have a go]] and also see how other people respond to the same situations.
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
