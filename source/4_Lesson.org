@@ -21,8 +21,8 @@
       <li><a href="3_Lesson.html">Week3</a></li>
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
-      <li><a href="6_Lesson.html">Week6</a></li>
-      <li><a href="7_Lesson.html">Week7</a></li>
+      <li><a href="Homework.html">Homework</a></li>
+
       <li><a href="assessment.html">Assessment</a></li>
 
     </ul>
@@ -119,7 +119,14 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
+- Have a read of[[https://www.ebuyer.com/blog/2015/04/rise-of-the-robots/][ this article]] on fictional AIs and the reality.
 - Have a read of[[http://www.bbc.co.uk/news/technology-30290540][ this article]]. There are some very intelligent scientists out there who have genuine concerns about AI.
+- Watch the video beblow and see how intelligent machines can affect our society.
+#+BEGIN_HTML
+<div style="position:relative;height:0;padding-bottom:56.25%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WSKi8HfcxEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+#+END_HTML
 - So what are they worried about? One theorised AI that could potentially destroy all humanity is /The Paperclipper/. This is an AI that has been programmed to make paperclips.
 - Read this exert from[[https://medium.com/@LyleCantor/russell-bostrom-and-the-risk-of-ai-45f69c9ee204][ Lyle Cantor's article on /The Paperclipper/.]]
 #+begin_quote

@@ -11,7 +11,7 @@
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/stsb11/8-CS-AI">Fork me on GitHub</a>
+      <a href="https://github.com/digixc/8-CS-AI">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -21,8 +21,8 @@
       <li><a href="3_Lesson.html">Week3</a></li>
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
-      <li><a href="6_Lesson.html">Week6</a></li>
-      <li><a href="7_Lesson.html">Week7</a></li>
+      <li><a href="Homework.html">Homework</a></li>
+
       <li><a href="assessment.html">Assessment</a></li>
 
     </ul>
