@@ -191,7 +191,7 @@
 - How do you think this chatbot works?
 - Does looking at the source code for the bot (in IDLE) help at all?
 
-** Badge It - Silver/Gold
+** Badge It - Silver/Gold - Learning Strand - Information Technology 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
