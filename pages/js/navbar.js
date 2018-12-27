@@ -11,7 +11,6 @@ $(function(){
 });
 
 
-
 function overlayon(bgcol) {
     var bgcol = bgcol;
     document.getElementById("overlay").style.display = "block";
