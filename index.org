@@ -13,6 +13,10 @@
     </div>
 </div>
 #+END_HTML
+* [[file:pages/0_Lesson.html][Week 0 - Unit Overview ]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
 * [[file:pages/1_Lesson.html][Week 1 - What is AI? ]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
