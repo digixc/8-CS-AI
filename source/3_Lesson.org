@@ -127,7 +127,7 @@
 - Here is an [[http://beebom.com/2015/12/examples-of-artificial-intelligence][article]] that should help.
 
 
-** Badge It
+** Badge It - Literacy - Learning Strand - Literacy
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
