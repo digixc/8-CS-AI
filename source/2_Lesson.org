@@ -140,7 +140,7 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-[[https://imgs.xkcd.com/comics/turing_test.png]]
+[[./img/turing_test.png]]
 - Although Turing never intended /The Turing Test/ to be a definitive test for Artificial Intelligence, this has not stopped academics and companies holding competitions in which programs are subjected to /The Turing Test/.
 - Use online resources to learn about some of these competitions and programs that have managed to fool interogators into thinking they were human.
 - The most famous is Eugene Gostman. Currently he is off line but [[http://time.com/2847900/eugene-goostman-turing-test/][here]] is an article to see what he does.
@@ -154,7 +154,7 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-[[https://imgs.xkcd.com/comics/a_new_captcha_approach.png]]
+[[./img/a_new_captcha_approach.png]]
 - Reversing /The Turing Test/ has become a focus for research over the past few years.
 - This means inventing a test that only a human can pass, and computers will always fail.
 - The most common form of reverese test, of which you will probably be familiar is CAPTCHA
