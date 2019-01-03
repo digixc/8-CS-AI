@@ -142,10 +142,10 @@
 </div>
 #+END_HTML
 ** Badge It - Silver
-*** Learning strand: Information Technology
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: silver
 :END:
+*** Learning strand: Information Technology
 - There are a few basic goals of AI research. These are to produce machines or software that are capable of:
   1. reasoning (making decisions)
   2. representing knowledge
@@ -220,7 +220,7 @@
 :END:
 
 - Time to show what you know!
-- Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_1/][here]]
+- Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_1/popquiz.php][here]]
 
 
 ** Badge It - Platinum
