@@ -141,9 +141,10 @@
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/kWmX3pd1f10?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 #+END_HTML
-** Silver Tasks
+** Badge It - Silver
+*** Learning strand: Information Technology
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
+:HTML_CONTAINER_CLASS: silver
 :END:
 - There are a few basic goals of AI research. These are to produce machines or software that are capable of:
   1. reasoning (making decisions)
@@ -177,6 +178,12 @@
 | Chat Bots   |   |   |   |   |   |   |   |
 | Robot Go    |   |   |   |   |   |   |   |
 
+** Badge It - Gold
+
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: gold
+:END:
+*** Learning Strand - Information Technology 
 - Can computers be creative?
 
 #+begin_html
@@ -207,20 +214,21 @@
 - How do you think this chatbot works?
 - Does looking at the source code for the bot (in IDLE) help at all?
 
-** Badge It - Silver/Gold - Learning Strand - Information Technology 
+** Check your understanding
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
+:HTML_CONTAINER_CLASS: try
 :END:
 
 - Time to show what you know!
 - Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_1/][here]]
-- Your score will determine whether you receive a silver or gold badge. 
 
-** Learn it
+
+** Badge It - Platinum
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
+:HTML_CONTAINER_CLASS: platinum
 :END:
 
+*** learning strand: Information Technology
 - Deciding what qualifies as AI and what doesn't is not easy.
 - Something is /Artificial/ if it is not naturally occurring - i.e. man-made.
 - What do we mean by /Intelligence/ though?

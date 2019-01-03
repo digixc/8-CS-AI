@@ -264,6 +264,15 @@ object {
 .badge h3 {
   background-image: url(icons/Badge.svg);
 }
+.silver h3 {
+  background-image: url(icons/silver.png);
+}
+.gold h3 {
+  background-image: url(icons/gold.png);
+}
+.platinum h3 {
+  background-image: url(icons/platinum.png);
+}
 .save h3 {
   background-image: url(icons/Save.svg);
 }
