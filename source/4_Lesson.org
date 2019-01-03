@@ -117,7 +117,7 @@
 :END:
 - The word /Robot/ entered the English language in the 1920 play R.U.R. about factory robots that learn about violence from humans and revolt against their masters.
 - Since then Artificially Intelligent machines have been portrayed countless times in movies and literature, and not often in a good light.
-** Badge Task 1 - Silver
+** Badge Task 1 - Silver - Learning Strand - Information Technology
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
@@ -189,7 +189,7 @@ You quickly learn that every automated factory in the world has had its security
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-sSJ1K2H05A" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IFe9wiDfb0E" frameborder="0" allowfullscreen></iframe>
 #+end_html
-** Badge Task 2 - Gold and Platinum
+** Badge Task 2 - Gold and Platinum - Learning Strand - Information Technology
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
@@ -200,7 +200,7 @@ You quickly learn that every automated factory in the world has had its security
 - You will be awarded Gold or Platinum according to the quality of your response.
 - Upload your notes to www.bournetolearn.com.
   
-** Badge It - Silver, Gold and Platinum
+** Badge It - Silver, Gold and Platinum - Learning Strand - Information Technology
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
