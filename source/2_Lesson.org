@@ -134,7 +134,7 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - Weizenbaum's program was able to fool some people into believing that they were talking to a real person, with some subjects being "very hard to convince that ELIZA was not human.
 - Another more modern example would be [[http://www.mitsuku.com][Mitsuku.]]
 - She won second prize in a recent Turing competition.
-- Write up your opinions on ELIZA and Mitsuku. Do you either of them  passes the Turing Test? Can you figure out the rules that dictate ELIZA's responses.
+- Write up your opinions on ELIZA and Mitsuku. Do you think either of them  passes the Turing Test? Can you figure out the rules that dictate ELIZA's responses.
 
 ** Research It
 :PROPERTIES:
