@@ -124,10 +124,11 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - Let's see how a Turing Test is actually done.
 - Click [[http://www.mind.ilstu.edu/curriculum/turing_test/turing_test_flash_long.php][here]]
 
-** Note It 
+** Badge It - Silver 
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: document
+:HTML_CONTAINER_CLASS: silver
 :END:
+*** Learning strand: Information Technology
 - Open [[http://www.masswerk.at/eliza/][ELIZA]] in a new tab and have a chat with her.
 - She was originally designed as a therapist.
 - In 1966, Joseph Weizenbaum created ELIZA, that appeared to pass the Turing test.
@@ -144,10 +145,11 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - Although Turing never intended /The Turing Test/ to be a definitive test for Artificial Intelligence, this has not stopped academics and companies holding competitions in which programs are subjected to /The Turing Test/.
 - Use online resources to learn about some of these competitions and programs that have managed to fool interogators into thinking they were human.
 - The most famous is Eugene Gostman. Currently he is off line but [[http://time.com/2847900/eugene-goostman-turing-test/][here]] is an article to see what he does.
-** Note It
+** Badge It - Gold
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: document
+:HTML_CONTAINER_CLASS: gold
 :END:
+*** Learning strand: Information Technoloy
 - In your opinion, have there been any programs written that actually pass /The Turing Test/?
 - Whether you agree or disagree that /The Turing Test/ has been passed, make sure that you justify your answer, and give examples of the programs.
 ** Learn It
@@ -170,18 +172,16 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - Read[[https://www.newscientist.com/article/mg22429992-400-googles-new-bot-trap-trains-machines-to-see-the-world/][ this article]] to learn a little more.
 - Ironically, these AIs that are trained are then capable of solving Google's own CAPTCHA.
 - Read[[http://techcrunch.com/2014/04/16/googles-new-street-view-image-recognition-algorithm-can-beat-most-captchas/][ this article]] to learn a little more.
-** Note It
+** Badge It - Platinum
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: document
+:HTML_CONTAINER_CLASS: platinum
 :END:
+
+*** Learning strand: Literacy
+ Write an short 200 words essay, using good English on the following points:
 - From a security point of view, what do you think the ramifications of computers being able to imitate humans successfully.
 - How might criminals be able to use these technologies?
-- How might security expects be able to counter these technologies?
-** Badge It - silver/gold/platinum - Learning Strand - Information Technology
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
-- Time to show what you know!
-- Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_2/][here]]
-- Your score will determine whether you receive a silver, gold or platinum badge.
+- How might security experts be able to counter these technologies?
 
+* COMMENT - Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_2/][here]]
+ 
