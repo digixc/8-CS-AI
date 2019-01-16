@@ -107,6 +107,21 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
+
+* Learning Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+- In this lesson you will develop an understanding of the learning strand *Information Technology* on your progress ladder, working towards *Green* level.
+*** Understanding and being able to explain:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END:
+- some aspects of what we term intelligence.
+- both sides of the debate whether or not a machine can display intelligence.
+- some examples of machines demonstrating behaviours that could be considered intelligent.
+- in which humans can make use of machines that demonstrate seemingly intelligent behaviour.
+
 * What is AI?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
