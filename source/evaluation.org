@@ -101,7 +101,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
-- [[./doc/AI-EndofUnitEvaluation.docx][ Right click here]] then *Save Link As* to save this evaluation template into your homedrive.
+- [[./doc/AI–EndofUnitEvaluation.docx][ Right click here]] then *Save Link As* to save this evaluation template into your homedrive.
 - Open the downloaded template in Word.
 - Follow the instructions on the template to finish your self evaluation.
   - Under each heading/learning strand, evaluate the following:
