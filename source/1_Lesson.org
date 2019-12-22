@@ -8,7 +8,7 @@
 #+TITLE: Artificial Intelligence
 #+AUTHOR: Marc Scott updated by Paul Dougall, X Ellis, S Fone
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
       <a href="https://github.com/digixc/8-CS-AI">Fork me on GitHub</a>
@@ -42,7 +42,7 @@
 <p onclick="underlayon('hsla(60,100%,50%,0.3)')">Yellow</p>
 </div>
 
-#+END_HTML
+#+END_EXPORT
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -110,52 +110,48 @@
 
 * Learning Objectives
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: activity
-:END:
-- In this lesson you will develop an understanding of the learning strand *Information Technology* on your progress ladder, working towards *Green* level.
-*** Understanding and being able to explain:
-:PROPERTIES:
 :HTML_CONTAINER_CLASS: objectives
 :END:
-- some aspects of what we term intelligence.
-- both sides of the debate whether or not a machine can display intelligence.
-- some examples of machines demonstrating behaviours that could be considered intelligent.
-- in which humans can make use of machines that demonstrate seemingly intelligent behaviour.
+** In this lesson you will develop an understanding of the learning strand *Information Technology* on your progress ladder, working towards *Green* . Specifically,
+- develop understanding what intelligence is.
+- develop understanding what artificial intelligence is
+- develop some understanding the current development in AI technologies
 
 * What is AI?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Learn It
+** Learn It - 200 years from a hoax to an intelligent machine
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-[[file:https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kempelen_chess1.jpg/562px-Kempelen_chess1.jpg]]
+
 - In 1770, at Schönbrunn Palace, the world was introduced to the first Artificially Intelligent machine.
 - Called /The Mechanical Turk/ the clockwork machine was able to play chess, and was able to beat all the human opponents pitted against it that day, typically in under half and hour.
 - There was one problem with the /The Mechanical Turk/, it was a *hoax*.
 - Inside the mechanism was space for a human to sit, and from where he could operate the machinery.
 - It would be over 200 years before a computer was able to convincingly beat a human at chess, when in 1997, Deep Blue beat the World Champion -Gary Kasparov in a 6 game match. 
+[[file:https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kempelen_chess1.jpg/562px-Kempelen_chess1.jpg]]
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 
 - Artificial intelligence (AI) is the *intelligence* exhibited by machines or software. What is exactly is *intelligence*?
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/AwMY7cbKU3c?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
-#+END_HTML
+#+END_EXPORT
 - As you will learn, we are already surrounded by AI, whether that be the route finding software in the maps app on your mobile phone, that enemy combatant in your FPS console game or the recommendation software used to suggest products to you based on your previous purchases.
 - A simpler explanation on what AI is:
-#+begin_html
+#+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/mJeNghZXtMo?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
-#+end_html
+#+END_EXPORT
 - A little more in-depth explanation:
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="560" height="315" src="https://www.youtube.com/embed/kWmX3pd1f10?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
-#+END_HTML
+#+END_EXPORT
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: silver
@@ -170,18 +166,19 @@
   6. perception (sensing an environment)
   7. move and manipulate objects
 - Watch the following videos and decide which (if any) of the goals listed above have been achieved by the AIs shown.
-#+begin_html
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/tf7IEVTDjng?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+#+BEGIN_EXPORT html
+<div style="position:relative;height:0;padding-bottom:56.25%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_sBBaNYex3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p>
-#+end_html
+#+END_EXPORT
 
-#+begin_html
+#+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Qh2yT-AL1V8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div> <p>
-#+end_html
+#+END_EXPORT
 
-#+begin_html
+#+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/SUbqykXVx0A?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div><p>
-#+end_html
+#+END_EXPORT
 
 - Add the below table to your notes and complete by watching the above videos.
 
@@ -201,9 +198,9 @@
 *** Learning Strand - Information Technology 
 - Can computers be creative?
 
-#+begin_html
+#+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Rh9vBczqMk0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
-#+end_html
+#+END_EXPORT
 
 - Answer the following answers into your notes from the above video.
 
@@ -212,7 +209,7 @@
 - What examples of being creative are given?
 - Explain how evolution can be used to make music?
 
-** Try It
+** COMMENT Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:

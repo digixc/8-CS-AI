@@ -6,9 +6,9 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: Artificial Intelligence
-#+AUTHOR: Marc Scott updated by Paul Dougall
+#+AUTHOR: Marc Scott updated by Xiao Ellis
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
       <a href="https://github.com/stsb11/8-CS-AI">Fork me on GitHub</a>
@@ -40,7 +40,7 @@
 <p onclick="underlayon('hsla(300,100%,25%,0.3)')">Purple</p>
 <p onclick="underlayon('hsla(60,100%,50%,0.3)')">Yellow</p>
 </div>
-#+END_HTML
+#+END_EXPORT
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -122,7 +122,10 @@ We now ask the question, "What will happen when a machine takes the part of A in
 #+end_quote
 - Turing was arguing, that if a machine can convincingly trick a questioner into thinking it was a human, then it can be classified as intelligent. Or more philosophically- what is the difference between a human and a computer that is indestinguishable from a human?
 - Let's see how a Turing Test is actually done.
-- Click [[http://www.mind.ilstu.edu/curriculum/turing_test/turing_test_flash_long.php][here]]
+#+BEGIN_EXPORT html
+<embed src="http://www.mind.ilstu.edu/curriculum/turing_test/flash/TuringTest_long.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="792" height="576">
+#+END_EXPORT
+
 
 ** Badge It - Silver 
 :PROPERTIES:
@@ -134,44 +137,44 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - In 1966, Joseph Weizenbaum created ELIZA, that appeared to pass the Turing test.
 - Weizenbaum's program was able to fool some people into believing that they were talking to a real person, with some subjects being "very hard to convince that ELIZA was not human.
 - Another more modern example would be [[http://www.mitsuku.com][Mitsuku.]]
-- She won second prize in a recent Turing competition.
-- Write up your opinions on ELIZA and Mitsuku. Do you think either of them  passes the Turing Test? Can you figure out the rules that dictate ELIZA's responses.
+- She won many prizes in many international and the Turing competition.
+- Write up your opinions on ELIZA and Mitsuku.
+  1. Do you think either of them  passes the Turing Test? Explain your reasons.
+  2. Can you figure out the rules that dictate ELIZA's responses? Write done the rules you have worked out.
 
-** Research It
+** COMMENT Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
 [[./img/turing_test.png]]
 - Although Turing never intended /The Turing Test/ to be a definitive test for Artificial Intelligence, this has not stopped academics and companies holding competitions in which programs are subjected to /The Turing Test/.
-- Use online resources to learn about some of these competitions and programs that have managed to fool interogators into thinking they were human.
+- Use online resources to learn about some of these competitions and programs that have managed to fool interrogators into thinking they were human.
 - The most famous is Eugene Gostman. Currently he is off line but [[http://time.com/2847900/eugene-goostman-turing-test/][here]] is an article to see what he does.
+
+** Learn It - Reversing Turing Test
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+[[./img/reverse_Turing.png]]
+- Reversing /The Turing Test/ has become a focus for research over the past few years.
+- This means inventing a test that only a human can pass, and computers will always fail.
+- The most common form of reverse test, of which you will probably be familiar is CAPTCHA
+[[./img/reCaptcha.png]]
+- The idea behind CAPTCHA is to present to the user an image that a computer would not be able to understand.
+- Without CAPTCHA it would be trivial to design a bot that could register a billion different online email addresses that could be used to send spam, for instance.
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: gold
 :END:
 *** Learning strand: Information Technoloy
-- In your opinion, have there been any programs written that actually pass /The Turing Test/?
-- Whether you agree or disagree that /The Turing Test/ has been passed, make sure that you justify your answer, and give examples of the programs.
-** Learn It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-[[./img/a_new_captcha_approach.png]]
-- Reversing /The Turing Test/ has become a focus for research over the past few years.
-- This means inventing a test that only a human can pass, and computers will always fail.
-- The most common form of reverese test, of which you will probably be familiar is CAPTCHA
-[[https://upload.wikimedia.org/wikipedia/commons/b/b6/Modern-captcha.jpg]]
-- The idea behind CAPTCHA is to present to the user an image that a computer would not be able to understand.
-- Without CAPTCHA it would be trivial to design a bot that could register a billion different online email addresses that could be used to send spam, for instance.
-** Research It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: research
-:END:
+
 - There is now an interesting battle between bots and CAPTCHA programs.
 - In fact, Google have been using CAPTCHA to train their AIs.
 - Read[[https://www.newscientist.com/article/mg22429992-400-googles-new-bot-trap-trains-machines-to-see-the-world/][ this article]] to learn a little more.
 - Ironically, these AIs that are trained are then capable of solving Google's own CAPTCHA.
 - Read[[http://techcrunch.com/2014/04/16/googles-new-street-view-image-recognition-algorithm-can-beat-most-captchas/][ this article]] to learn a little more.
+- Summarise your learnings from the above two articles with focusing on the evoluations of CAPTCHA to identify humans from ever more advanced bots.
+
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: platinum
@@ -183,5 +186,4 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - How might criminals be able to use these technologies?
 - How might security experts be able to counter these technologies?
 
-* COMMENT - Click [[Http://www.bournetolearn.com/quizzes/y8-AI/Lesson_2/][here]]
  

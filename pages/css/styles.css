@@ -230,6 +230,9 @@ object {
   padding: 10px 10px;
   border-radius: 5px;
 }
+.objectives h3 {
+  background-image: url(icons/objectives.png);
+}
 /* CSS for sub activities*/
 .learn h3 {
   background-image: url(icons/Learn.svg);
@@ -275,9 +278,6 @@ object {
 }
 .save h3 {
   background-image: url(icons/Save.svg);
-}
-.objectives h3 {
-  background-image: url(icons/objectives.png);
 }
 h3 {
   color: #741371;
