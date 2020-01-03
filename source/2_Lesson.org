@@ -181,7 +181,7 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :END:
 
 *** Learning strand: Literacy
- Write an short 200 words essay, using good English on the following points:
+ Write an short 200 words essay, using good English and examples or scenarios on the following points:
 - From a security point of view, what do you think the ramifications of computers being able to imitate humans successfully.
 - How might criminals be able to use these technologies?
 - How might security experts be able to counter these technologies?

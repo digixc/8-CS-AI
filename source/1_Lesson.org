@@ -184,30 +184,29 @@
 
 - Use ticks and crosses in the table below.
 
-| AI          | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|-------------+---+---+---+---+---+---+---|
-| Spot        |   |   |   |   |   |   |   |
-| Chat Bots   |   |   |   |   |   |   |   |
-| Robot Go    |   |   |   |   |   |   |   |
+| AI            | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---------------+---+---+---+---+---+---+---|
+| Parkour Atlas |   |   |   |   |   |   |   |
+| Chat Bots     |   |   |   |   |   |   |   |
+| Robot Go      |   |   |   |   |   |   |   |
 
-** Badge It - Gold
-
+** Badge It - Gold: Can Computers Be Creative?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: gold
 :END:
 *** Learning Strand - Information Technology 
-- Can computers be creative?
+- Open a blank word document or notepad 
+
+- Answer the following questions after or while watching the video below:
+  - Who was Lady Lovelace?
+  - What was her test?
+  - What examples of being creative are given?
+  - Explain how evolution can be used to make music
 
 #+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Rh9vBczqMk0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 #+END_EXPORT
 
-- Answer the following answers into your notes from the above video.
-
-- Who was Lady Lovelace?
-- What was her test?
-- What examples of being creative are given?
-- Explain how evolution can be used to make music?
 
 ** COMMENT Try It
 :PROPERTIES:
