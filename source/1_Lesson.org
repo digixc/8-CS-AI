@@ -165,7 +165,8 @@
   5. natural language processing (communication)
   6. perception (sensing an environment)
   7. move and manipulate objects
-- Watch the following videos and decide which (if any) of the goals listed above have been achieved by the AIs shown.
+- Write a sentence or two for each of the above bulletin points to explain what each point means.
+- Watch the following videos and decide which (if any) of the goals listed above have been achieved by the AIs shown by putting ticks in the table. For example, put tick in the 1's column if the AI can perform reasoning which is the bulletin point 1.
 #+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_sBBaNYex3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
