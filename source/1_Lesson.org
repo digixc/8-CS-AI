@@ -166,8 +166,8 @@
   6. perception (sensing an environment)
   7. move and manipulate objects
 - Make sure you understand each of the above bulletin points. If not, conduct some research online
-- Open [[./doc/Week%201%20Silver Task.docx][this worksheet]] and then Watch the following three videos and decide which (if any) of the goals listed above have been achieved by the AIs shown by putting ticks in the table. For example, put tick in the =reasoning= column if the AI can perform reasoning in table of the open document.
-- Answer the other two questions in the open document and save to your homedrive and upload to BTL
+- Open [[./doc/Week%201%20Silver Task.docx][this worksheet]] and then Watch the following three videos and decide which (if any) of the goals listed above have been achieved by the AIs in the vdieos by putting ticks in the table. For example, put tick in the =reasoning= column if the AI can perform reasoning in the table of your openned document.
+- Answer the other two questions in your openned document and save to your homedrive and upload to BTL
 #+BEGIN_EXPORT html
 <div style="position:relative;height:0;padding-bottom:56.25%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_sBBaNYex3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
