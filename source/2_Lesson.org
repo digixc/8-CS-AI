@@ -123,7 +123,7 @@ We now ask the question, "What will happen when a machine takes the part of A in
 - Turing was arguing, that if a machine can convincingly trick a questioner into thinking it was a human, then it can be classified as intelligent. Or more philosophically- what is the difference between a human and a computer that is indestinguishable from a human?
 - Let's see how a Turing Test is actually done.
 #+BEGIN_EXPORT html
-<embed src="http://www.mind.ilstu.edu/curriculum/turing_test/flash/TuringTest_long.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="792" height="576">
+<embed src="./img/TuringTest_long.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="792" height="576"/>
 #+END_EXPORT
 
 
