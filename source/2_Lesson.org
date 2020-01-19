@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: Artificial Intelligence
-#+AUTHOR: Marc Scott updated by Xiao Ellis
+#+AUTHOR: Marc Scott updated by Xiaohui Ellis
 
 #+BEGIN_EXPORT html
   <div class="github-fork-ribbon-wrapper left">
@@ -168,10 +168,17 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :END:
 *** Learning strand: Information Technoloy
 
+- This idea of improving AIs with training data is called =Machine learning=. 
+- Watch [[./img/HowMachinesLearn.mp4][this 8 and half minutes long video]] to learn about the concept of =machine learning=
+#+BEGIN_EXPORT html
+<video width=900 controls>
+<source src="./img/HowMachinesLearn.mp4" />
+</video>
+#+END_EXPORT
 - There is now an interesting battle between bots and CAPTCHA programs.
 - In fact, Google have been using CAPTCHA to train their AIs.
 - Read[[https://www.newscientist.com/article/mg22429992-400-googles-new-bot-trap-trains-machines-to-see-the-world/][ this article]] to learn a little more.
-- Ironically, these AIs that are trained are then capable of solving Google's own CAPTCHA.
+- Ironically, these AIs that are trained are then capable of solving Google's own CAPTCHA which defeats the purpose of CAPTCHA.
 - Read[[http://techcrunch.com/2014/04/16/googles-new-street-view-image-recognition-algorithm-can-beat-most-captchas/][ this article]] to learn a little more.
 - Summarise your learnings from the above two articles with focusing on the evoluations of CAPTCHA to identify humans from ever more advanced bots.
 
@@ -181,9 +188,10 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :END:
 
 *** Learning strand: Literacy
- Write an short 200 words essay, using good English and examples or scenarios on the following points:
+ Write an short 200 words essay, using[[https://medium.com/sciforce/artificial-intelligence-for-cyber-security-a-double-edge-sword-6724e7a31425][this article]] as a starting point, and using good English and examples or scenarios on the following points:
 - From a security point of view, what do you think the ramifications of computers being able to imitate humans successfully.
 - How might criminals be able to use these technologies?
 - How might security experts be able to counter these technologies?
+
 
  
