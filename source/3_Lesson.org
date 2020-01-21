@@ -128,20 +128,24 @@
 
 
 
-** Badge It - Literacy - Learning Strand - Literacy
+** Badge It -  Current Development and Ethics of AI Group Project
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - *Green pen Matters*
  
-- For this activity you need to produce a short essay on current AI technologies.
+*** For this activity you need to work in a group 2-3 to produce a final presentation. The process is as following:
+ 
+  - Pick one current AI technology (see the list for suggestions below)
+  - Answer the default set of questions
+  - Pick three questions, two if only two members in a team from a given list as your project focus. 
+  - Work out who is responsible for which questions in your team
+  - Brain storm and pick a presentation format to present your work
+  - Decide who is going to present to the whole group upon finish
+*** Organise your project
+- Use [[./doc/AI-Group-Project.docx][this project booklet]] to organise your team and your work
 - Using those two articles to get some ideas:
   1. Here is an [[http://beebom.com/2015/12/examples-of-artificial-intelligence][article]].
   2. Here is another [[https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/][article]] 
-- Your essay should:
-  1. Cover at least 5 AI technologies that are currently in use.
-  2. Detail what problems these AI technologies are currently able to solve.
-  3. Detail what problems these AI technologies are currently not able to solve for its intended field of use.
-  4. Conclude as to the effectiveness of the technologies.
-- Your essay can be written in your favourite text editor - Notepad, Sublime Text or emacs for instance. OR
-- In word, BUT export it as pdf for uploading.
+*** Assessment of your team work
+- Your team work will be awarded Silver, Gold or Platinum badges depending on the overall quality of your work.
